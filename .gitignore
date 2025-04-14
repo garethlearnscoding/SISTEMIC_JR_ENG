@@ -1,0 +1,10 @@
+# General
+
+
+# Environments
+sistemic/
+
+
+
+# Python Bytecode
+__pycache__/
